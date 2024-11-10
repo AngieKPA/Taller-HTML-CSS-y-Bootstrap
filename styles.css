@@ -1,0 +1,35 @@
+h1{
+    align-content: center;
+    
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: aquamarine;
+}
+div{
+    text-align: center;
+    width:800px;
+    margin:10px;
+}
+
+.important{
+    background-color: azure;
+    position:fixed;
+    top:6px;
+    left: 250px;
+}
+p.centrado {
+    font-family: times;
+
+   }
+
+p{
+    float:left;
+    font-size: 26px;
+    text-align: left
+}
