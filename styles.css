@@ -1,35 +1,40 @@
-h1{
-    align-content: center;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins','Montserrat', sans-serif;
     
 }
 
-section{
-    display: flex;
-    justify-content: center;
+header{
+    background-color: blue;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 30
+;
 }
+
+h3, section{
+    text-align: center;
+    font-weight: bold;
+    font-size: 36;
+}
+h1{
+    align-content: center
+    
+}
+
 
 body{
     background-color: aquamarine;
 }
-div{
-    text-align: center;
-    width:800px;
-    margin:10px;
-}
 
-.important{
-    background-color: azure;
-    position:fixed;
-    top:6px;
-    left: 250px;
-}
-p.centrado {
-    font-family: times;
-
-   }
 
 p{
     float:left;
     font-size: 26px;
     text-align: left
 }
+
