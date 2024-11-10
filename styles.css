@@ -7,12 +7,17 @@
     
 }
 
+div{
+    margin-top: 2%;
+}
+
 header{
     background-color: blue;
     text-align: center;
     font-size: larger;
     font-weight: bold;
-    margin-bottom: 30
+    margin-bottom: 30;
+    font-size: 46;
 ;
 }
 
@@ -24,6 +29,10 @@ h3, section{
 h1{
     align-content: center
     
+}
+
+h5{
+    font-size: 32;
 }
 
 
